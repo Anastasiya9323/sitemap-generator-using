@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Anastasiya9323/sitemap-generator.git",
-                "reference": "d3509ebef94de4eaf3f2948bfa5df9f9a4d7e15d"
+                "reference": "e2867dc2b7c97878adfa1761aaea5549105cb93a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Anastasiya9323/sitemap-generator/zipball/d3509ebef94de4eaf3f2948bfa5df9f9a4d7e15d",
-                "reference": "d3509ebef94de4eaf3f2948bfa5df9f9a4d7e15d",
+                "url": "https://api.github.com/repos/Anastasiya9323/sitemap-generator/zipball/e2867dc2b7c97878adfa1761aaea5549105cb93a",
+                "reference": "e2867dc2b7c97878adfa1761aaea5549105cb93a",
                 "shasum": ""
             },
             "require": {
@@ -45,7 +45,7 @@
                 "issues": "https://github.com/Anastasiya9323/sitemap-generator/issues",
                 "source": "https://github.com/Anastasiya9323/sitemap-generator/tree/main"
             },
-            "time": "2025-07-04T19:09:10+00:00"
+            "time": "2025-07-04T19:20:43+00:00"
         }
     ],
     "packages-dev": [],
