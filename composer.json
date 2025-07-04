@@ -1,0 +1,19 @@
+{
+    "name": "anastasiya9323/sitemap-generator-using",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Anastasiya9323\\SitemapGeneratorUsing\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anastasiya",
+            "email": "nastya.9323@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "anastasiya9323/sitemap-generator": "dev-main"
+    }
+}

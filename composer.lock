@@ -1,0 +1,62 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "40fb08b8a7aad00d695aa575ef7a7d06",
+    "packages": [
+        {
+            "name": "anastasiya9323/sitemap-generator",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Anastasiya9323/sitemap-generator.git",
+                "reference": "d3509ebef94de4eaf3f2948bfa5df9f9a4d7e15d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Anastasiya9323/sitemap-generator/zipball/d3509ebef94de4eaf3f2948bfa5df9f9a4d7e15d",
+                "reference": "d3509ebef94de4eaf3f2948bfa5df9f9a4d7e15d",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=8.2"
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "SitemapGenerator\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Anastasiya Sadovnichaya",
+                    "email": "nastya.9323@mail.ru"
+                }
+            ],
+            "description": "The sitemap generator in CSV, JSON or XML formats",
+            "support": {
+                "issues": "https://github.com/Anastasiya9323/sitemap-generator/issues",
+                "source": "https://github.com/Anastasiya9323/sitemap-generator/tree/main"
+            },
+            "time": "2025-07-04T19:09:10+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "anastasiya9323/sitemap-generator": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {},
+    "platform-dev": {},
+    "plugin-api-version": "2.6.0"
+}
